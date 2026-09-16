@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64">
+  <!-- ============================================================
+       LOGO — Imperium Digital
+       Il marchio unisce una colonna romana stilizzata (asta,
+       base e capitello) a una piccola interruzione "a gradino"
+       nel capitello, che richiama una traccia di circuito:
+       classico e tecnologico nello stesso segno, senza fronzoli.
+       ============================================================ -->
+
+  <!-- Marchio -->
+  <g transform="translate(8,8)">
+    <rect x="4" y="4" width="40" height="40" fill="none" stroke="#223A5E" stroke-width="3"/>
+    <path d="M14 34H34M24 14V34M14 14H19V9H29V14H34" fill="none" stroke="#223A5E" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  </g>
+
+  <!-- Naming -->
+  <text x="72" y="34" font-family="'Bricolage Grotesque', 'Segoe UI', sans-serif" font-size="26" font-weight="700" letter-spacing="0.5" fill="#1B1B18">IMPERIUM</text>
+  <text x="72" y="52" font-family="'IBM Plex Sans', 'Segoe UI', sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#223A5E">DIGITAL</text>
+</svg>

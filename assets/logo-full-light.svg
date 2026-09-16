@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64">
+  <!-- Variante per sfondi scuri: stesso marchio, tratto chiaro -->
+
+  <g transform="translate(8,8)">
+    <rect x="4" y="4" width="40" height="40" fill="none" stroke="#FBFAF8" stroke-width="3"/>
+    <path d="M14 34H34M24 14V34M14 14H19V9H29V14H34" fill="none" stroke="#FBFAF8" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"/>
+  </g>
+
+  <text x="72" y="34" font-family="'Bricolage Grotesque', 'Segoe UI', sans-serif" font-size="26" font-weight="700" letter-spacing="0.5" fill="#FBFAF8">IMPERIUM</text>
+  <text x="72" y="52" font-family="'IBM Plex Sans', 'Segoe UI', sans-serif" font-size="13" font-weight="600" letter-spacing="4" fill="#9DB1CC">DIGITAL</text>
+</svg>
