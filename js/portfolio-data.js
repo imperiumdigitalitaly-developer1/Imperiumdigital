@@ -58,11 +58,11 @@ const PORTFOLIO_PROJECTS = [
   },
   {
     name: {
-      it: "Progetto in arrivo",
-      en: "Coming soon",
-      de: "Projekt in Vorbereitung",
-      fr: "Projet à venir",
-      es: "Próximamente",
+      it: "DigitalCheck",
+      en: "DigitalCheck",
+      de: "DigitalCheck",
+      fr: "DigitalCheck",
+      es: "DigitalCheck",
     },
     category: "webapp",
     categoryLabel: {
@@ -72,12 +72,18 @@ const PORTFOLIO_PROJECTS = [
       fr: "Application web",
       es: "Aplicación web",
     },
-    description: { it: "", en: "", de: "", fr: "", es: "" },
-    tech: [],
-    link: "",
+    description: {
+      it: "Web app che analizza SEO, performance, mobile, contenuti e capacità di conversione di un sito. Genera un Digital Score con un report chiaro e azioni concrete per migliorare la presenza digitale.",
+      en: "Web app that analyzes a website's SEO, performance, mobile-friendliness, content and conversion potential. Generates a Digital Score with a clear report and concrete actions to improve online presence.",
+      de: "Web-App, die SEO, Performance, Mobilfreundlichkeit, Inhalte und Konversionsfähigkeit einer Website analysiert. Erstellt einen Digital Score mit einem klaren Bericht und konkreten Maßnahmen zur Verbesserung der digitalen Präsenz.",
+      fr: "Application web qui analyse le référencement (SEO), les performances, l'adaptation mobile, le contenu et la capacité de conversion d'un site. Génère un Digital Score avec un rapport clair et des actions concrètes pour améliorer la présence numérique.",
+      es: "Aplicación web que analiza el SEO, el rendimiento, la adaptación móvil, los contenidos y la capacidad de conversión de un sitio web. Genera un Digital Score con un informe claro y acciones concretas para mejorar la presencia digital.",
+    },
+    tech: ["HTML", "CSS", "JavaScript"],
+    link: "https://digitalcheck.imperiumdigitalitalia.it/",
     caseStudy: "",
-    image: "",
-    placeholder: true,
+    image: "assets/digitalcheck.jpg",
+    placeholder: false,
   },
   {
     name: {
