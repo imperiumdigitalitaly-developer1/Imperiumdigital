@@ -1,4 +1,3 @@
-cat > js/main.js << 'MAINJS_EOF'
 /**
  * ============================================================
  * MAIN.JS — interazioni del sito
@@ -516,4 +515,3 @@ function buildMailBody(form) {
 
   return lines.filter((l) => l !== null).join("\n");
 }
-MAINJS_EOF
