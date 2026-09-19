@@ -1,3 +1,4 @@
+cat > js/main.js << 'MAINJS_EOF'
 /**
  * ============================================================
  * MAIN.JS — interazioni del sito
@@ -458,12 +459,12 @@ function setupPortfolioFilters() {
    Modulo di contatto: apre il programma di posta del visitatore
    con un'email già compilata verso SITE_CONFIG.email (mailto),
    così ogni richiesta arriva come una vera email, senza bisogno
-   delle notifiche a pagamento di Netlify Forms.
+   di servizi esterni a pagamento.
    In parallelo, la richiesta viene comunque inviata (in modo
    silenzioso, senza bloccare né condizionare l'esito mostrato
-   all'utente) anche a Netlify Forms come copia di backup gratuita,
-   consultabile dalla dashboard anche se il visitatore non dovesse
-   completare l'invio dell'email dal proprio programma di posta.
+   all'utente) anche via Resend come copia di backup, così arriva
+   anche se il visitatore non completa l'invio dal proprio
+   programma di posta.
    ------------------------------------------------------------ */
 function setupContactForm() {
   const form = document.getElementById("contact-form");
@@ -473,13 +474,12 @@ function setupContactForm() {
   form.addEventListener("submit", (e) => {
     e.preventDefault();
 
-    // Backup silenzioso e gratuito su Netlify Forms — non condiziona
-    // in alcun modo il messaggio mostrato all'utente qui sotto.
-    const netlifyBody = new URLSearchParams(new FormData(form)).toString();
-    fetch("/", {
+    // Backup silenzioso via Resend — non condiziona in alcun modo
+    // il messaggio mostrato all'utente qui sotto.
+    fetch("/api/contact", {
       method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: netlifyBody,
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(Object.fromEntries(new FormData(form))),
     }).catch(() => {});
 
     // Apre il programma di posta con l'email già pronta
@@ -516,3 +516,4 @@ function buildMailBody(form) {
 
   return lines.filter((l) => l !== null).join("\n");
 }
+MAINJS_EOF
