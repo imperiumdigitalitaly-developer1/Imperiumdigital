@@ -6,384 +6,384 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/</loc>
+    <loc>https://imperiumdigitalitalia.it/en</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/</loc>
+    <loc>https://imperiumdigitalitalia.it/de</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/</loc>
+    <loc>https://imperiumdigitalitalia.it/fr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/</loc>
+    <loc>https://imperiumdigitalitalia.it/es</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/come-funziona.html</loc>
+    <loc>https://imperiumdigitalitalia.it/come-funziona</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/how-it-works.html</loc>
+    <loc>https://imperiumdigitalitalia.it/en/how-it-works</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/ablauf.html</loc>
+    <loc>https://imperiumdigitalitalia.it/de/ablauf</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/comment-ca-marche.html</loc>
+    <loc>https://imperiumdigitalitalia.it/fr/comment-ca-marche</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/como-funciona.html</loc>
+    <loc>https://imperiumdigitalitalia.it/es/como-funciona</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/come-funziona" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/how-it-works" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ablauf" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/comment-ca-marche" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/como-funciona" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/come-funziona" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/servizi.html</loc>
+    <loc>https://imperiumdigitalitalia.it/servizi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/services.html</loc>
+    <loc>https://imperiumdigitalitalia.it/en/services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/leistungen.html</loc>
+    <loc>https://imperiumdigitalitalia.it/de/leistungen</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/services.html</loc>
+    <loc>https://imperiumdigitalitalia.it/fr/services</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/servicios.html</loc>
+    <loc>https://imperiumdigitalitalia.it/es/servicios</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/servizi" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/leistungen" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/services" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/servicios" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/servizi" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/portfolio.html</loc>
+    <loc>https://imperiumdigitalitalia.it/portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/portfolio.html</loc>
+    <loc>https://imperiumdigitalitalia.it/en/portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/portfolio.html</loc>
+    <loc>https://imperiumdigitalitalia.it/de/portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/portfolio.html</loc>
+    <loc>https://imperiumdigitalitalia.it/fr/portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/portfolio.html</loc>
+    <loc>https://imperiumdigitalitalia.it/es/portfolio</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7000000000000001</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/portfolio" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/portfolio" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/portfolio" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/portfolio" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/portfolio" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/portfolio" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/chi-siamo.html</loc>
+    <loc>https://imperiumdigitalitalia.it/chi-siamo</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/about.html</loc>
+    <loc>https://imperiumdigitalitalia.it/en/about</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/ueber-uns.html</loc>
+    <loc>https://imperiumdigitalitalia.it/de/ueber-uns</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/qui-sommes-nous.html</loc>
+    <loc>https://imperiumdigitalitalia.it/fr/qui-sommes-nous</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/quienes-somos.html</loc>
+    <loc>https://imperiumdigitalitalia.it/es/quienes-somos</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/chi-siamo" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/ueber-uns" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/qui-sommes-nous" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/quienes-somos" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/chi-siamo" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/faq.html</loc>
+    <loc>https://imperiumdigitalitalia.it/faq</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/faq.html</loc>
+    <loc>https://imperiumdigitalitalia.it/en/faq</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/faq.html</loc>
+    <loc>https://imperiumdigitalitalia.it/de/faq</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/faq.html</loc>
+    <loc>https://imperiumdigitalitalia.it/fr/faq</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/faq.html</loc>
+    <loc>https://imperiumdigitalitalia.it/es/faq</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/faq" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/faq" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/faq" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/faq" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/faq" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/faq" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/contatti.html</loc>
+    <loc>https://imperiumdigitalitalia.it/contatti</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/en/contact.html</loc>
+    <loc>https://imperiumdigitalitalia.it/en/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/de/kontakt.html</loc>
+    <loc>https://imperiumdigitalitalia.it/de/kontakt</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/fr/contact.html</loc>
+    <loc>https://imperiumdigitalitalia.it/fr/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti" />
   </url>
   <url>
-    <loc>https://imperiumdigitalitalia.it/es/contacto.html</loc>
+    <loc>https://imperiumdigitalitalia.it/es/contacto</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt.html" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact.html" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto.html" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti.html" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://imperiumdigitalitalia.it/contatti" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://imperiumdigitalitalia.it/en/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://imperiumdigitalitalia.it/de/kontakt" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://imperiumdigitalitalia.it/fr/contact" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://imperiumdigitalitalia.it/es/contacto" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://imperiumdigitalitalia.it/contatti" />
   </url>
 </urlset>
