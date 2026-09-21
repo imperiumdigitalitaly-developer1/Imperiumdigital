@@ -20,12 +20,10 @@ const SITE_CONFIG = {
   // Dati di contatto — sostituisci i placeholder con i tuoi dati reali
   email: "imperiumdigitalitaly@gmail.com",
 
-  // Due numeri di contatto (WhatsApp). Il "Number" è usato per il link wa.me,
+  // Numero di contatto (WhatsApp). Il "Number" è usato per il link wa.me,
   // il "Label" è il testo mostrato sul sito.
   phone1Label: "+39 389 535 6517",
   phone1Number: "393895356517",
-  phone2Label: "+39 327 081 5388",
-  phone2Number: "393270815388",
 
   // Social — lascia vuoto ("") per nascondere il link dal footer/contatti
   instagramUrl: "https://www.instagram.com/_imperiumdigital?stkn=MXE3Zzl3cXR4YjI5bQ%3D%3D&utm_source=qr",
@@ -36,7 +34,6 @@ const SITE_CONFIG = {
   // coordinate già registrate come destinatario. Lascia vuoto ("") un campo
   // per nascondere il relativo pulsante.
   donationUrlRevolut: "https://revolut.me/giusepwcmy",
-  donationUrlPaypal: "https://www.paypal.com/qrcodes/p2pqrc/CPKZLZR2VXEVL",
   donationUrlStripe: "https://buy.stripe.com/fZucN79hN8sE84CbrxefC00",
 
   // URL del sito una volta pubblicato (usato per meta tag, sitemap, JSON-LD)
@@ -49,6 +46,5 @@ const SITE_CONFIG = {
   foundingYear: 2026,
 };
 
-// Costruisce automaticamente i link WhatsApp dai numeri sopra
+// Costruisce automaticamente il link WhatsApp dal numero sopra
 SITE_CONFIG.whatsapp1Url = `https://wa.me/${SITE_CONFIG.phone1Number}`;
-SITE_CONFIG.whatsapp2Url = `https://wa.me/${SITE_CONFIG.phone2Number}`;

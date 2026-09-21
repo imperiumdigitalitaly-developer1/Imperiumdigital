@@ -112,10 +112,6 @@ function injectConfigData() {
       el.setAttribute("href", SITE_CONFIG.whatsapp1Url);
       el.setAttribute("target", "_blank");
       el.setAttribute("rel", "noopener");
-    } else if (hrefType === "whatsapp2") {
-      el.setAttribute("href", SITE_CONFIG.whatsapp2Url);
-      el.setAttribute("target", "_blank");
-      el.setAttribute("rel", "noopener");
     }
   });
 
@@ -413,7 +409,6 @@ function setupScrollReveal() {
 function setupDonationButton() {
   const config = [
     { id: "donation-btn-revolut", key: "donationUrlRevolut" },
-    { id: "donation-btn-paypal", key: "donationUrlPaypal" },
     { id: "donation-btn-stripe", key: "donationUrlStripe" },
   ];
 
