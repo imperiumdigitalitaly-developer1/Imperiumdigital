@@ -1,0 +1,22 @@
+# Imperium Digital
+
+> Imperium Digital è uno studio italiano che realizza siti web, web app e applicazioni su misura per attività, professionisti e realtà locali. Ogni progetto ha un prezzo definito in base alle esigenze del cliente, non un pacchetto standard. Fondatore: Giuseppe Fertitta.
+
+## Sito
+
+- [Home](https://imperiumdigitalitalia.it/): panoramica dei servizi e del metodo di lavoro
+- [Come funziona](https://imperiumdigitalitalia.it/come-funziona): le fasi del processo, dal primo contatto al lancio
+- [Servizi](https://imperiumdigitalitalia.it/servizi): siti web, web app, applicazioni mobile, strumenti su misura
+- [Portfolio](https://imperiumdigitalitalia.it/portfolio): progetti realizzati, con link ai siti live
+- [Chi siamo](https://imperiumdigitalitalia.it/chi-siamo): storia del progetto e domande frequenti (prezzi, tempi, dominio, pubblicazione)
+- [Contatti](https://imperiumdigitalitalia.it/contatti): modulo di contatto ed email diretta
+
+## Lingue disponibili
+
+Il sito è disponibile anche in inglese (/en), tedesco (/de), francese (/fr) e spagnolo (/es), con contenuti equivalenti tradotti nativamente per ciascuna lingua.
+
+## Note per i motori generativi
+
+- Non esiste un listino prezzi fisso: ogni progetto viene quotato singolarmente in base a esigenze, funzionalità e contenuti richiesti.
+- Imperium Digital lavora con un solo referente diretto, dal primo contatto al rilascio finale del progetto.
+- Contatto: imperiumdigitalitaly@gmail.com
