@@ -1823,3 +1823,164 @@ a.portfolio-thumb:focus-visible .portfolio-thumb-hint {
   border-color: var(--blueprint);
   color: var(--blueprint);
 }
+
+/* ============================================================
+   REFRESH VISIVO — griglia in stile blueprint, badge di fiducia,
+   card "manifesto" ricorrente, portfolio con cornice browser.
+   Introdotti come evoluzione dell'interfaccia esistente: stessa
+   identità (blueprint, card numerate a griglia), più profondità.
+   ============================================================ */
+:root {
+  --radius-lg: 16px;
+  --radius-pill: 999px;
+}
+
+/* Griglia "blueprint" di sfondo per le sezioni hero */
+.hero-blueprint {
+  position: relative;
+  isolation: isolate;
+}
+
+.hero-blueprint::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image:
+    linear-gradient(var(--line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--line) 1px, transparent 1px);
+  background-size: 40px 40px;
+  -webkit-mask-image: radial-gradient(ellipse 75% 65% at 30% 20%, #000 45%, transparent 85%);
+          mask-image: radial-gradient(ellipse 75% 65% at 30% 20%, #000 45%, transparent 85%);
+  opacity: 0.6;
+}
+
+/* Badge di fiducia sotto le CTA dell'hero */
+.trust-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 2rem;
+}
+
+.trust-badges span {
+  display: inline-flex;
+  align-items: center;
+  font-size: var(--step-1);
+  color: var(--ink-soft);
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-pill);
+  padding: 0.5em 1em;
+}
+
+.trust-badges strong {
+  color: var(--ink);
+  margin-right: 0.35em;
+}
+
+/* Griglia a due colonne per hero di pagina interna: testo + card manifesto */
+.page-hero-grid {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: clamp(2rem, 4vw, 3.5rem);
+  align-items: start;
+}
+
+@media (max-width: 880px) {
+  .page-hero-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Card "manifesto" ricorrente: promemoria del posizionamento del brand */
+.manifesto-card {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: clamp(1.75rem, 2.5vw, 2.25rem);
+  box-shadow: 0 20px 45px -25px rgba(27, 27, 24, 0.25);
+}
+
+.manifesto-card .section-kicker {
+  margin-bottom: 0.8em;
+}
+
+.manifesto-card h2 {
+  font-family: var(--font-display);
+  font-size: var(--step2);
+  letter-spacing: -0.01em;
+}
+
+.manifesto-list {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.manifesto-list li {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+}
+
+.manifesto-list .num {
+  flex-shrink: 0;
+  width: 1.9rem;
+  height: 1.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--blueprint);
+  color: var(--white);
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 7px;
+}
+
+.manifesto-list strong {
+  display: block;
+  font-size: var(--step0);
+}
+
+.manifesto-list span {
+  display: block;
+  color: var(--ink-soft);
+  font-size: var(--step-1);
+  margin-top: 0.15em;
+}
+
+/* Cornice "browser" sulle anteprime portfolio */
+.portfolio-thumb {
+  padding-top: 28px;
+}
+
+.portfolio-thumb::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto 0;
+  height: 28px;
+  background: var(--ink);
+  z-index: 1;
+}
+
+.portfolio-thumb::after {
+  content: "";
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--ink-soft);
+  box-shadow: 16px 0 0 var(--ink-soft), 32px 0 0 var(--ink-soft);
+  z-index: 2;
+}
+
+.portfolio-thumb svg,
+.portfolio-thumb img {
+  top: 28px;
+  height: calc(100% - 28px);
+}
