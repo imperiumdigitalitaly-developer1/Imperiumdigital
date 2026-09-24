@@ -233,6 +233,7 @@ select:focus-visible {
   padding: 0.85em 1.6em;
   border-radius: var(--radius-pill, 999px);
   border: 1px solid transparent;
+  text-decoration: none;
   transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease, transform 0.15s ease;
   white-space: nowrap;
 }
@@ -339,6 +340,7 @@ select:focus-visible {
 #nav-links a.btn--primary:hover {
   color: var(--white);
   border-bottom: none;
+  padding-inline: 1.5em 1.7em;
 }
 
 .nav-cta {
@@ -1866,9 +1868,9 @@ a.portfolio-thumb:focus-visible .portfolio-thumb-hint {
     linear-gradient(var(--line) 1px, transparent 1px),
     linear-gradient(90deg, var(--line) 1px, transparent 1px);
   background-size: 40px 40px;
-  -webkit-mask-image: radial-gradient(ellipse 75% 65% at 30% 20%, #000 40%, transparent 78%);
-          mask-image: radial-gradient(ellipse 75% 65% at 30% 20%, #000 40%, transparent 78%);
-  opacity: 0.4;
+  -webkit-mask-image: radial-gradient(ellipse 60% 50% at 25% 15%, #000 8%, transparent 55%);
+          mask-image: radial-gradient(ellipse 60% 50% at 25% 15%, #000 8%, transparent 55%);
+  opacity: 0.22;
 }
 
 /* Badge di fiducia sotto le CTA dell'hero */
