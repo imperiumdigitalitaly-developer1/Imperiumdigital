@@ -21,8 +21,10 @@
  * - link: URL del progetto live, oppure "" se non disponibile
  * - caseStudy: URL a un case study esterno, oppure "" se assente
  * - image: percorso immagine (relativo alla cartella della pagina), oppure "" per usare il placeholder grafico
- * - placeholder: true se il progetto non è ancora pronto (mostra
- *   "Progetto in arrivo" invece dei dettagli)
+ * - placeholder: true per escludere il progetto dall'anteprima in home
+ *   (usato per i progetti non ancora presentabili pubblicamente; la
+ *   nota "nuovi progetti in lavorazione" nella pagina Portfolio non
+ *   dipende da questo campo, è un testo fisso nell'HTML)
  * ============================================================
  */
 
@@ -84,51 +86,5 @@ const PORTFOLIO_PROJECTS = [
     caseStudy: "",
     image: "assets/digitalcheck.jpg",
     placeholder: false,
-  },
-  {
-    name: {
-      it: "Progetto in arrivo",
-      en: "Coming soon",
-      de: "Projekt in Vorbereitung",
-      fr: "Projet à venir",
-      es: "Próximamente",
-    },
-    category: "app",
-    categoryLabel: {
-      it: "App",
-      en: "App",
-      de: "App",
-      fr: "Application",
-      es: "App",
-    },
-    description: { it: "", en: "", de: "", fr: "", es: "" },
-    tech: [],
-    link: "",
-    caseStudy: "",
-    image: "",
-    placeholder: true,
-  },
-  {
-    name: {
-      it: "Progetto in arrivo",
-      en: "Coming soon",
-      de: "Projekt in Vorbereitung",
-      fr: "Projet à venir",
-      es: "Próximamente",
-    },
-    category: "strumento",
-    categoryLabel: {
-      it: "Strumento digitale",
-      en: "Digital tool",
-      de: "Digitales Tool",
-      fr: "Outil numérique",
-      es: "Herramienta digital",
-    },
-    description: { it: "", en: "", de: "", fr: "", es: "" },
-    tech: [],
-    link: "",
-    caseStudy: "",
-    image: "",
-    placeholder: true,
   },
 ];
