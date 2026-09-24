@@ -1,4 +1,16 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/faq", "destination": "/chi-siamo#faq", "permanent": true },
+    { "source": "/faq.html", "destination": "/chi-siamo#faq", "permanent": true },
+    { "source": "/en/faq", "destination": "/en/about#faq", "permanent": true },
+    { "source": "/en/faq.html", "destination": "/en/about#faq", "permanent": true },
+    { "source": "/de/faq", "destination": "/de/ueber-uns#faq", "permanent": true },
+    { "source": "/de/faq.html", "destination": "/de/ueber-uns#faq", "permanent": true },
+    { "source": "/fr/faq", "destination": "/fr/qui-sommes-nous#faq", "permanent": true },
+    { "source": "/fr/faq.html", "destination": "/fr/qui-sommes-nous#faq", "permanent": true },
+    { "source": "/es/faq", "destination": "/es/quienes-somos#faq", "permanent": true },
+    { "source": "/es/faq.html", "destination": "/es/quienes-somos#faq", "permanent": true }
+  ]
 }
