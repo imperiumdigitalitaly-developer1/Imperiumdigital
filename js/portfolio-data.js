@@ -79,7 +79,7 @@ const PORTFOLIO_PROJECTS = [
       fr: "Application web qui analyse le référencement (SEO), les performances, l'adaptation mobile, le contenu et la capacité de conversion d'un site. Génère un Digital Score avec un rapport clair et des actions concrètes pour améliorer la présence numérique.",
       es: "Aplicación web que analiza el SEO, el rendimiento, la adaptación móvil, los contenidos y la capacidad de conversión de un sitio web. Genera un Digital Score con un informe claro y acciones concretas para mejorar la presencia digital.",
     },
-    tech: ["HTML", "CSS", "JavaScript"],
+    tech: ["Next.js", "React", "JavaScript"],
     link: "https://digitalcheck.imperiumdigitalitalia.it/",
     caseStudy: "",
     image: "assets/digitalcheck.jpg",
